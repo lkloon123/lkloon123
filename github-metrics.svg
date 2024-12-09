@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="272.23346854285734" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="272.23346854285734" y="0" width="60.78431670991849" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="272.23346854285734" y="0" width="60.78431670991849" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="333.0177852527758" y="0" width="52.394007655953914" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="385.41179290872975" y="0" width="43.206520498321936" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="428.6183134070517" y="0" width="17.220302737422088" height="8" fill="#41b883"/>
@@ -237,7 +237,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -333,7 +333,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.18822724161532 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.782340862423 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -475,7 +475,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 950k out of 150m users</span>
+                                    <span class="gh">ranked 953k out of 150m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">44</div>
                                     </div>
@@ -603,7 +603,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 814k out of 224m repositories</span>
+                                    <span class="gh">ranked 815k out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -737,7 +737,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 741k out of 224m repositories</span>
+                                    <span class="gh">ranked 743k out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">42</div>
                                     </div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Dec 2024, 09:10:16 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Dec 2024, 09:10:58 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
